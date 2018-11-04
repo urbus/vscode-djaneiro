@@ -30,6 +30,7 @@ Add this to settings to get Emmet support for your Django Templates
 | register         | method | ``admin.site.register(<Model>)``               |
 | registermadmin   | method | ``admin.site.register(<Model>, <ModelAdmin>)`` |
 | fieldsets        | option | ``For more complex layout in ModelAdmin``      |
+| list_display     | option | ``For add field to view in admin``             |
 
 ### Snippets for Django Form 
 
