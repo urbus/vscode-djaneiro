@@ -12,5 +12,13 @@
         ],
 		"description": "",
 		"scope": "source.python"
+	},
+	"list_display": {
+		"prefix": "list_display",
+		"body": [
+            "list_display = (",")"
+        ],
+		"description": "Display fields in admin",
+		"scope": "source.python"
 	}
 }
